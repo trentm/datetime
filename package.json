@@ -1,12 +1,12 @@
 {
-  "name": "datetime",
-  "description": "Date and time formatting",
-  "url": "http://github.com/joehewitt/datetime",
+  "name": "trentm-datetime",
+  "description": "Date and time formatting (a fork to publish fixes to npm)",
+  "url": "http://github.com/trentm/datetime",
   "keywords": ["date", "time"],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
   "dependencies": {"vows": ">=0.5.4"},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/datetime",
   "directories": { "test": "./test" },
   "engines": { "node": ">=0.4.0" }
